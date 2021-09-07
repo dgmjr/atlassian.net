@@ -6,3 +6,4 @@ Stay tuned for first code upload as I rework things to be a redistributable and 
 
 ## Note:
 This project is dormand due to lack of demand as well as my attention being drawn to other more potentialy popular projects.
+Little to no code is published because I am attempting to complete a v0.1 release before making the code public.
